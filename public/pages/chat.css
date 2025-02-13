@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Kristen ITC;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+main nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: rgba(0, 0, 0, 0.25);
+}
+main nav .next-btn {
+  font-size: 1.5rem;
+}
+main nav .next-btn a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.25);
+}
+main nav .hamburger {
+  display: flex;
+  gap: 0.2rem;
+}
+main nav .hamburger div {
+  width: 4px;
+  height: 4px;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+}
+main .chat-area {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  padding: 0 1rem;
+}
+main .chat-area .sender {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin: 0.5rem 0;
+}
+main .chat-area .sender .sender-msg {
+  max-width: 50%;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  background-color: white;
+  padding: 0.5rem;
+  color: rgba(0, 0, 0, 0.45);
+}
+main .chat-area .recipient {
+  width: 100%;
+  margin: 0.5rem 0;
+  display: flex;
+  justify-content: start;
+}
+main .chat-area .recipient .recipient-msg {
+  max-width: 50%;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  background-color: white;
+  padding: 0.5rem;
+}
+main .typing-area {
+  width: 100%;
+  padding: 1rem 0;
+}
+main .typing-area form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 1rem;
+  padding: 0 1rem;
+}
+main .typing-area form input {
+  width: 100%;
+  border-radius: 1rem;
+  outline: none;
+  border: none;
+  padding: 0.7rem;
+  box-shadow: 0 0 5px black;
+}
+main .typing-area form button {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  font-size: 1.2rem;
+  box-shadow: 0 0 5px black;
+}
+
+.name {
+  font-size: 0.7rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.notification {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  animation: fadeInOut 3s ease-in-out;
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  10% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  90% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+}/*# sourceMappingURL=chat.css.map */
