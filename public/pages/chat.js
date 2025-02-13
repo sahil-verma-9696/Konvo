@@ -2,7 +2,7 @@ const chatArea = document.querySelector(".chat-area");
 const messageInput = document.getElementById("message");
 const form = document.querySelector("form");
 
-const ws = new WebSocket("ws://konvo-8458.onrender.com");
+const ws = new WebSocket("wss://konvo-8458.onrender.com");
 
 const urlParams = new URLSearchParams(window.location.search);
 let username = urlParams.get("user");
