@@ -1,5 +1,3 @@
-const ws = new WebSocket("ws://localhost:3000");
-
 document.querySelector("form").addEventListener("submit", handleFormSubmit);
 
 function handleFormSubmit(event) {
