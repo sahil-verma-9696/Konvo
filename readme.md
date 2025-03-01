@@ -67,7 +67,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License.
 
 ## Screenshots
-![Screenshot1](path/to/assets/mainSceen.png)
+![Screenshot1](/assets/mainSceen.png)
 ![Screenshot2](path/to/assets/personscreen.png)
 
 ## Demo
