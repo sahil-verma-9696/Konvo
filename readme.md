@@ -2,18 +2,19 @@
 
 Konvo is a chat application.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-36.2%25-yellow)
-![SCSS](https://img.shields.io/badge/SCSS-26%25-pink)
-![CSS](https://img.shields.io/badge/CSS-25.3%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-36%25-yellow)
+![SCSS](https://img.shields.io/badge/SCSS-26.1%25-pink)
+![CSS](https://img.shields.io/badge/CSS-25.4%25-blue)
 ![HTML](https://img.shields.io/badge/HTML-12.5%25-orange)
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Project Link](#project-link)
+- Project Overview
+- Installation
+- Usage
+- Contribution
+- License
+- Screenshots
+- Demo
 
 ## Project Overview
 Konvo is a chat application designed to facilitate real-time messaging between users. It is built using a combination of JavaScript, SCSS, CSS, and HTML.
@@ -65,10 +66,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 This project is licensed under the MIT License.
 
-## Project Link
-Check out the project on GitHub: [Konvo](https://github.com/sahil-verma-9696/Konvo)
+## Screenshots
+![Screenshot1](path/to/assets/mainSceen.png)
+![Screenshot2](path/to/assets/personscreen.png)
 
-[![Demo](https://img.shields.io/badge/Demo-Link-brightgreen)](https://github.com/sahil-verma-9696/Konvo)
+## Demo
+[![Demo Video](path/to/assets/video_thumbnail.png)](https://konvo-8458.onrender.com)
+
 [![Live](https://img.shields.io/badge/Render-Live-blue)](https://konvo-8458.onrender.com)
 
-
+Replace the placeholders with the actual paths to your assets.
