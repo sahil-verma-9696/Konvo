@@ -67,11 +67,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License.
 
 ## Screenshots
-![Screenshot1](/assets/mainSceen.png)
-![Screenshot2](path/to/assets/personscreen.png)
+![Enter Your Name ](/assets/mainSceen.png)
+![Two person Screens](/assets/personscreen.png)
 
 ## Demo
-[![Demo Video](path/to/assets/video_thumbnail.png)](https://konvo-8458.onrender.com)
+[![Demo Video](/assets/KonvoDemo.mp4)](https://konvo-8458.onrender.com)
 
 [![Live](https://img.shields.io/badge/Render-Live-blue)](https://konvo-8458.onrender.com)
 
