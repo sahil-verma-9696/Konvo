@@ -10,7 +10,7 @@ Konvo is a chat application.
 ## Screenshots
 ![Enter Your Name ](/assets/mainSceen.png)
 ![Two person Screens](/assets/personscreen.png)
-![Chat Screens](/assets/chatScreen.pn)
+![Chat Screens](/assets/chatScreen.png)
 
 ## Table of Contents
 - Project Overview
