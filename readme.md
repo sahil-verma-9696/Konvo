@@ -1,7 +1,3 @@
-Here's the updated README file with icons for the demo link and the deployment on Render:
-
----
-
 # Konvo
 
 Konvo is a chat application.
@@ -75,6 +71,4 @@ Check out the project on GitHub: [Konvo](https://github.com/sahil-verma-9696/Kon
 [![Demo](https://img.shields.io/badge/Demo-Link-brightgreen)](https://github.com/sahil-verma-9696/Konvo)
 [![Live](https://img.shields.io/badge/Render-Live-blue)](https://konvo-8458.onrender.com)
 
----
 
-You can now copy and paste this content into your `README.md` file.
