@@ -7,6 +7,10 @@ Konvo is a chat application.
 ![CSS](https://img.shields.io/badge/CSS-25.4%25-blue)
 ![HTML](https://img.shields.io/badge/HTML-12.5%25-orange)
 
+## Demo
+
+![Demo video](KonvoDemo.gif)
+
 ## Screenshots
 ![Enter Your Name ](/assets/mainSceen.png)
 ![Two person Screens](/assets/personscreen.png)
