@@ -1,3 +1,7 @@
+Here's the updated README file with icons for the demo link and the deployment on Render:
+
+---
+
 # Konvo
 
 Konvo is a chat application.
@@ -13,6 +17,7 @@ Konvo is a chat application.
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
+- [Project Link](#project-link)
 
 ## Project Overview
 Konvo is a chat application designed to facilitate real-time messaging between users. It is built using a combination of JavaScript, SCSS, CSS, and HTML.
@@ -66,6 +71,9 @@ This project is licensed under the MIT License.
 
 ## Project Link
 Check out the project on GitHub: [Konvo](https://github.com/sahil-verma-9696/Konvo)
+
+[![Demo](https://img.shields.io/badge/Demo-Link-brightgreen)](https://github.com/sahil-verma-9696/Konvo)
+[![Live](https://img.shields.io/badge/Render-Live-blue)](https://konvo-8458.onrender.com)
 
 ---
 
