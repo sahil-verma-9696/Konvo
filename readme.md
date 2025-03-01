@@ -7,6 +7,11 @@ Konvo is a chat application.
 ![CSS](https://img.shields.io/badge/CSS-25.4%25-blue)
 ![HTML](https://img.shields.io/badge/HTML-12.5%25-orange)
 
+## Screenshots
+![Enter Your Name ](/assets/mainSceen.png)
+![Two person Screens](/assets/personscreen.png)
+![Chat Screens](/assets/chatScreen.pn)
+
 ## Table of Contents
 - Project Overview
 - Installation
@@ -65,10 +70,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 This project is licensed under the MIT License.
-
-## Screenshots
-![Enter Your Name ](/assets/mainSceen.png)
-![Two person Screens](/assets/personscreen.png)
 
 ## Demo
 [![Demo Video](/assets/KonvoDemo.mp4)](https://konvo-8458.onrender.com)
